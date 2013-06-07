@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.5.26)  7 JUN 2013 16:27
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.5.26)  7 JUN 2013 16:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -220,10 +220,10 @@ Here is how much of TeX's memory you used:
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmtt10.pfb>
-Output written on output/resume.pdf (1 page, 60199 bytes).
+Output written on output/resume.pdf (1 page, 62254 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 40 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
